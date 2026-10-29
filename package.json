@@ -1,0 +1,13 @@
+{
+  "name": "example-playwright-alternative",
+  "private": true,
+  "type": "module",
+  "description": "A Playwright Alternative for Tests That Leave the Page",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "testdriverai": "latest",
+    "vitest": "^4.0.18"
+  }
+}
